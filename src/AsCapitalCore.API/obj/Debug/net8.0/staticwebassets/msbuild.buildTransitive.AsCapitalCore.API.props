@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/AsCapitalCore.API.props" />
+</Project>
